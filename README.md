@@ -72,3 +72,7 @@ https://www.styled-components.com/docs/api#createglobalstyle
 
 #Template literals
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+#CSS filter
+https://www.w3schools.com/cssref/css3_pr_filter.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/filter
