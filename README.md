@@ -69,3 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 #Create global styled components
 https://www.styled-components.com/docs/api#createglobalstyle
+
+#Template literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
