@@ -76,3 +76,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 #CSS filter
 https://www.w3schools.com/cssref/css3_pr_filter.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/filter
+
+#LocalString currency conversion
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString#Example:_Checking_for_support_for_locales_and_options_arguments
